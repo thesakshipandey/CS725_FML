@@ -23,7 +23,6 @@ The primary objective of this project is to build a multilingual OCR pipeline ta
 - **Model**: Faster R-CNN with ResNet-50 backbone.
 - **Purpose**: Detect regions of interest (text regions) in signboard images.
 - **Details**:
-  - Pre-trained on COCO for object detection tasks.
   - Adapted for detecting text boxes in custom signboard datasets.
   - Bounding box coordinates are extracted for subsequent text recognition.
 
