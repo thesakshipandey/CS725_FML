@@ -12,6 +12,10 @@ The primary objective of this project is to build a multilingual OCR pipeline ta
 
 ---
 
+![Pipeline Overview](images/signboard.jpg)
+
+---
+
 ## **Key Components**
 
 ### **1. Text Detection**
