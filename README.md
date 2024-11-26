@@ -84,7 +84,7 @@ The primary objective of this project is to build a multilingual OCR pipeline ta
 
 ## **Test Cases**
 
-Simplified test cases and example outputs can be found in the folder: [**Test Cases Simplified**](./Test%20Cases%20Simplified/README.md).
+Simplified test cases and example outputs can be found in the folder: [**Test Cases Simplified**](./Test%20Cases%20Simplified/Test.md).
 
 ---
 
